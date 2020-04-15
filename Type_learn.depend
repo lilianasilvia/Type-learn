@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1578671307 source:d:\swiss academy course\tema\type_learn\decision_user_next_level.cpp
+	"prototype_functions.h"
+
+1578674741 source:d:\swiss academy course\tema\type_learn\new_lesson_generating.cpp
+	"prototype_functions.h"
+
+1578635931 source:d:\swiss academy course\tema\type_learn\user_performance_analysis.cpp
+	"prototype_functions.h"
+
+1578673416 d:\swiss academy course\tema\type_learn\prototype_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1577975174 source:d:\swiss academy course\tema\type_learn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototype_functions.h"
+
+1578674105 source:d:\swiss academy course\tema\type_learn\main.cpp
+	"prototype_functions.h"
+
